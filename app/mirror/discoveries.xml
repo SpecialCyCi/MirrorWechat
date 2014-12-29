@@ -1,0 +1,33 @@
+<items layout="list_item_discovery">
+    <_item>
+        <icon src="@drawable/icon_friend_circle"/>
+        <title text="朋友圈"/>
+        <avatar src="@drawable/avatar_zhibin"/>
+    </_item>
+    <_item layout="list_item_big_split"/>
+    <_item>
+        <icon src="@drawable/icon_scan_qrcode"/>
+        <title text="扫一扫"/>
+    </_item>
+    <_item layout="list_item_small_split"/>
+    <_item>
+        <icon src="@drawable/icon_shark_it"/>
+        <title text="摇一摇"/>
+    </_item>
+    <_item layout="list_item_small_split"/>
+    <_item>
+        <icon src="@drawable/icon_near_people"/>
+        <title text="附近的人"/>
+    </_item>
+    <_item layout="list_item_big_split"/>
+    <_item>
+        <icon src="@drawable/icon_shopping"/>
+        <title text="购物"/>
+    </_item>
+    <_item layout="list_item_small_split"/>
+    <_item>
+        <icon src="@drawable/icon_game"/>
+        <title text="游戏"/>
+    </_item>
+    <_item layout="list_item_small_split"/>
+</items>

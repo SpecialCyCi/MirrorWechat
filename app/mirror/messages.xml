@@ -1,0 +1,112 @@
+<items layout="list_item_message">
+    <_item>
+        <avatar
+            src="@drawable/avatar_special"/>
+        <name
+            text="Special"/>
+        <content
+            text="[图片]"/>
+        <time
+            text="晚上 11:59"/>
+    </_item>
+    <_item layout="list_item_message_special">
+        <avatar
+            src="@drawable/avatar_tower"/>
+        <name
+            text="彩程Tower"/>
+        <content
+            text="任务更新通知"/>
+        <time
+            text="晚上 11:50"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_gaga"/>
+        <name
+            text="Lady Gaga"/>
+        <content
+            text="我上次的 show 你满意吗？"/>
+        <time
+            text="晚上 11:20"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_l"/>
+        <name
+            text="L"/>
+        <content
+            text="丫蛋黑眼圈又出来了"/>
+        <time
+            text="下午 01:30"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_laden"/>
+        <name
+            text="本拉登"/>
+        <content
+            text="我还没死，昨天才去白宫坐了"/>
+        <time
+            text="早上 09:12"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_obama"/>
+        <name
+            text="奥巴马"/>
+        <content
+            text="粉我一下 https://github.com/PresidentObama"/>
+        <time
+            text="早上 08:44"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_jobs"/>
+        <name
+            text="乔布斯"/>
+        <content
+            text="少年又卖肾了吗？"/>
+        <time
+            text="昨天"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_taylor"/>
+        <name
+            text="Taylor Swift"/>
+        <content
+            text="I Knew You Were Trouble"/>
+        <time
+            text="星期五"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_naruto"/>
+        <name
+            text="鸣人"/>
+        <content
+            text="秘术 千年杀！"/>
+        <time
+            text="星期五"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_feng"/>
+        <name
+            text="Alvin_锋"/>
+        <content
+            text="我通过了你的好友验证请求，现在我们可以开始聊天了"/>
+        <time
+            text="12月4日"/>
+    </_item>
+    <_item>
+        <avatar
+            src="@drawable/avatar_dan"/>
+        <name
+            text="Dan"/>
+        <content
+            text="我通过了你的好友验证请求，现在我们可以开始聊天了"/>
+        <time
+            text="12月3日"/>
+    </_item>
+</items>

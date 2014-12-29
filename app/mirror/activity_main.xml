@@ -1,0 +1,23 @@
+<screen>
+
+    <actionbar title="微信" showTabsFor="@id/pager"/>
+    <_content layout="@layout/activity_main">
+        <pager>
+
+            <_page title="聊天" layout="fragment_messages">
+                <listView>
+                    <items include="messages.xml"/>
+                </listView>
+            </_page>
+
+            <_page title="发现" layout="fragment_discovery">
+                <listView>
+                    <items include="discoveries.xml"/>
+                </listView>
+            </_page>
+
+            <_page title="通讯录" layout="fragment_contacts"/>
+
+        </pager>
+    </_content>
+</screen>
